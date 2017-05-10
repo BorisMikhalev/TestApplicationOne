@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Тестовое приложение</string>
+    <string name="button">Загрузить путь</string>
+    <string name="error_message">Произошла ошибка при загрузке пути</string>
+    <string name="wait_message">Данные загружаются</string>
+    <string name="start_message">Добро пожаловать, для начала работы нажмите на кнопку внизу экрана</string>
+    <string name="api_key">AIzaSyB2QGfNxMaCXsIw-2MAIe-HFsl9KYpkGMM</string>
+</resources>
